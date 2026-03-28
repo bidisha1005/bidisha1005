@@ -1,16 +1,23 @@
-## Hi there 👋
+```bash
+bidisha1005@github:~ $ whoami
 
-<!--
-**bidisha1005/bidisha1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──────────────────────────────────────────────────────────────┐
+│  name   : Bidisha Paul                                       │
+│  role   : Computer Science student at PES University         │
+│  status : learning something new everyday                    │
+└──────────────────────────────────────────────────────────────┘
 
-Here are some ideas to get you started:
+bidisha1005@github:~ $ cat stack.txt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+languages → C++ · Python · SQL  
+frontend  → React · Next.js · CSS  
+backend   → Node.js · FastAPI · PostgreSQL  
+tooling   → Docker · Git · Linux · CI/CD  
+
+bidisha1005@github:~ $ ls -l ./now
+
+shipping-side-projects/  
+building-new-project.md  
+
+bidisha1005@github:~ $
+```
