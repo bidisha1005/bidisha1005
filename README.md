@@ -17,7 +17,7 @@ tooling   → Docker · Git · Linux · CI/CD
 bidisha1005@github:~ $ ls -l ./now
 
 shipping-side-projects/  
-building-new-project.md  
+new-project.md  
 
 bidisha1005@github:~ $
 ```
